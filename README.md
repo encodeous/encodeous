@@ -4,7 +4,6 @@
 
  - A High School Student in Toronto, Ontario.
  - Currently practicing Competitive Programming.
- - _Probably_ on an ide at this moment.
 
 ---
 
