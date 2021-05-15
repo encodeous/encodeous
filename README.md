@@ -1,11 +1,4 @@
-### Hello there! I'm [Adam](https://encodeous.ca)! 👋
-
-### I'm ...
-
- - A High School Student in Toronto, Ontario.
- - Currently practicing Competitive Programming.
-
----
+## => Competitive Programmer / Developer / C# Fanboy :P
 
 ### GitHub Stats
 
